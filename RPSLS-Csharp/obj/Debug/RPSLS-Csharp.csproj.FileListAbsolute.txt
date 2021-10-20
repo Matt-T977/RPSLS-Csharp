@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\obj\Debug\RPSLS-Csharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\obj\Debug\RPSLS-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\bin\Debug\RPSLS-Csharp.exe.config
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\bin\Debug\RPSLS-Csharp.exe
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\bin\Debug\RPSLS-Csharp.pdb
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\obj\Debug\RPSLS-Csharp.exe
+C:\Users\Admin\Documents\DCC_Course\Projects\RPSLS-Csharp\RPSLS-Csharp\obj\Debug\RPSLS-Csharp.pdb
